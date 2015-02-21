@@ -4,7 +4,7 @@
   "description": "App for manage the status of any type of project or epic task",
   "main": "app.js",
   "scripts": {
-    "test": "node_modules/mocha/bin/mocha test"
+    "test": "node_modules/mocha/bin/mocha test --reporter spec"
   },
   "repository": {
     "type": "git",
@@ -31,6 +31,7 @@
   },
   "devDependencies": {
     "mocha": "^2.1.0",
-    "should": "^5.0.1"
+    "should": "^5.0.1",
+    "supertest": "^0.15.0"
   }
 }
