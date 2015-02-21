@@ -2,7 +2,7 @@
   "name": "Status",
   "version": "1.0.0",
   "description": "App for manage the status of any type of project or epic task",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "node_modules/mocha/bin/mocha test"
   },
