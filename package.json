@@ -1,0 +1,26 @@
+{
+  "name": "Status",
+  "version": "1.0.0",
+  "description": "App for manage the status of any type of project or epic task",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vibaiher/status.git"
+  },
+  "keywords": [
+    "status",
+    "project",
+    "status",
+    "task",
+    "status"
+  ],
+  "author": "@vibaiher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vibaiher/status/issues"
+  },
+  "homepage": "https://github.com/vibaiher/status"
+}
