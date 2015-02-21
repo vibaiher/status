@@ -24,7 +24,9 @@
   },
   "homepage": "https://github.com/vibaiher/status",
   "dependencies": {
-    "express": "^4.11.2"
+    "express": "^4.11.2",
+    "mongodb": "^1.4.31",
+    "mongoskin": "^1.4.12"
   },
   "devDependencies": {
     "mocha": "^2.1.0",
